@@ -18,6 +18,7 @@ Trabalho desenvolvido para disciplina de "Programar em linguagem estruturada"
 
 
 Por fim, deve haver persistência de dados utilizando banco de dados. O banco de dados deve ser atualizado após cada operação de cadastro, atualização ou remoção.
+A parte de banco de dados foi bem inicial, por isso as infos do bd estão no main. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
